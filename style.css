@@ -25,4 +25,6 @@ header{
 }
 .header_right{
     flex: 0 0 17%;
+    display: flex;
+    justify-content: end;
 }
