@@ -16,3 +16,13 @@ a{
 header{
     padding: 15px;
 }
+
+.header_left{
+    flex: 0 0 17%;
+}
+.header_center{
+    flex: 0 0 66%;
+}
+.header_right{
+    flex: 0 0 17%;
+}
